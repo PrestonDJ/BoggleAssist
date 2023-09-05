@@ -1,0 +1,15 @@
+C:\Users\prest\Desktop\Coding Projects\Boggle Dictionary\BoggleAssist\BoggleAssist\bin\Debug\net6.0\BoggleAssist.exe
+C:\Users\prest\Desktop\Coding Projects\Boggle Dictionary\BoggleAssist\BoggleAssist\bin\Debug\net6.0\BoggleAssist.deps.json
+C:\Users\prest\Desktop\Coding Projects\Boggle Dictionary\BoggleAssist\BoggleAssist\bin\Debug\net6.0\BoggleAssist.runtimeconfig.json
+C:\Users\prest\Desktop\Coding Projects\Boggle Dictionary\BoggleAssist\BoggleAssist\bin\Debug\net6.0\BoggleAssist.dll
+C:\Users\prest\Desktop\Coding Projects\Boggle Dictionary\BoggleAssist\BoggleAssist\bin\Debug\net6.0\BoggleAssist.pdb
+C:\Users\prest\Desktop\Coding Projects\Boggle Dictionary\BoggleAssist\BoggleAssist\obj\Debug\net6.0\BoggleAssist.csproj.AssemblyReference.cache
+C:\Users\prest\Desktop\Coding Projects\Boggle Dictionary\BoggleAssist\BoggleAssist\obj\Debug\net6.0\BoggleAssist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prest\Desktop\Coding Projects\Boggle Dictionary\BoggleAssist\BoggleAssist\obj\Debug\net6.0\BoggleAssist.AssemblyInfoInputs.cache
+C:\Users\prest\Desktop\Coding Projects\Boggle Dictionary\BoggleAssist\BoggleAssist\obj\Debug\net6.0\BoggleAssist.AssemblyInfo.cs
+C:\Users\prest\Desktop\Coding Projects\Boggle Dictionary\BoggleAssist\BoggleAssist\obj\Debug\net6.0\BoggleAssist.csproj.CoreCompileInputs.cache
+C:\Users\prest\Desktop\Coding Projects\Boggle Dictionary\BoggleAssist\BoggleAssist\obj\Debug\net6.0\BoggleAssist.dll
+C:\Users\prest\Desktop\Coding Projects\Boggle Dictionary\BoggleAssist\BoggleAssist\obj\Debug\net6.0\refint\BoggleAssist.dll
+C:\Users\prest\Desktop\Coding Projects\Boggle Dictionary\BoggleAssist\BoggleAssist\obj\Debug\net6.0\BoggleAssist.pdb
+C:\Users\prest\Desktop\Coding Projects\Boggle Dictionary\BoggleAssist\BoggleAssist\obj\Debug\net6.0\BoggleAssist.genruntimeconfig.cache
+C:\Users\prest\Desktop\Coding Projects\Boggle Dictionary\BoggleAssist\BoggleAssist\obj\Debug\net6.0\ref\BoggleAssist.dll
